@@ -1,0 +1,2 @@
+className= com.cn.reflect.demo2.Person
+methodName=eat
