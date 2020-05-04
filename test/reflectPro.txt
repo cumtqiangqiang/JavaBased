@@ -1,2 +1,2 @@
-className= com.cn.reflect.demo2.Person
+className= Person
 methodName=eat
