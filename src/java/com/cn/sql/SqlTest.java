@@ -1,6 +1,6 @@
 package com.cn.sql;
 
-import org.junit.Test;
+//import org.junit.Test;
 
 import java.sql.ResultSet;
 import java.sql.Statement;
@@ -10,7 +10,7 @@ public class SqlTest {
     Collection conn = null;
     Statement st = null;
     ResultSet rs = null;
-    @Test
+//    @Test
     private void demo1(){
 
 
