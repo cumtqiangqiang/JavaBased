@@ -12,8 +12,6 @@ public class InputStreamDemo2 {
             System.out.println(new String(b));
         }
 
-
-
     }
 
 }

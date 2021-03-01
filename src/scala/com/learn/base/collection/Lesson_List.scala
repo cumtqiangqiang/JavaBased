@@ -28,6 +28,8 @@ object Lesson_List {
     val list1 = ListBuffer(1,2,3)
     list1.append(4)
     list1.foreach(println)
+    val hhh: String = "hhh"
+    val a = hhh
   }
 
 }
